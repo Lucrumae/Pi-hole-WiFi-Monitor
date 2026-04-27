@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24L30,34v14c0,13.2 10.2,25.5 24,28.5 13.8,-3 24,-15.3 24,-28.5V34L54,24z" />
+    <!-- Pi symbol inside shield -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M42,44h24v3H56v18h-4V47H42V44z" />
+</vector>
